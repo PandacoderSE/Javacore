@@ -1,7 +1,7 @@
 package java_bai46_interface;
 
 public class thongtinbai {
-/**
+/***
  * interface : có thể đa kế thừa , có tính trừu tượng hoàn toàn 
  * làm đc những việc mà kế thừa và abstract ko làm đc
  * trong interface : chỉ có phương thức trừu tượng và các hằng số , ko có biến số 

@@ -6,7 +6,6 @@
     <fullyQualifiedTypeName name="java_bai31_OOP.main"/>
     <fullyQualifiedTypeName name="javax.swing.ButtonGroup"/>
     <fullyQualifiedTypeName name="java_bai33_toString.myDate"/>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java_35_OOP_baiTap.manDate"/>
@@ -18,5 +17,27 @@
     <fullyQualifiedTypeName name="java_bai36_BaiTapOOP.BoPhim"/>
     <fullyQualifiedTypeName name="java_Bai39_OPPKeThua.ConNguoi"/>
     <fullyQualifiedTypeName name="java_Bai39_OPPKeThua.HocSinh"/>
+    <fullyQualifiedTypeName name="java_Bai44_abstract.Toado"/>
+    <fullyQualifiedTypeName name="java_Bai44_abstract.Hinh"/>
+    <fullyQualifiedTypeName name="java_Bai44_abstract.diem"/>
+    <fullyQualifiedTypeName name="java_Bai44_abstract.HinhTron"/>
+    <fullyQualifiedTypeName name="java_Bai44_abstract.HinhChuNhat"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java_bai44_baitap.HangSanXuat"/>
+    <fullyQualifiedTypeName name="java_bai44_baitap.oto"/>
+    <fullyQualifiedTypeName name="java_bai44_baitap.PhuongTienDiChuyen"/>
+    <fullyQualifiedTypeName name="java_bai44_baitap.xedap"/>
+    <fullyQualifiedTypeName name="java_bai44_baitap.MayBay"/>
+    <fullyQualifiedTypeName name="java_bai46_interface.MaytinhCasioFX500"/>
+    <fullyQualifiedTypeName name="java_bai46_interface.MaytinhvinaCal500"/>
+    <fullyQualifiedTypeName name="java_bai46_interface.Sapxepchen"/>
+    <fullyQualifiedTypeName name="java_bai46_interface.Sapxepchon"/>
+    <fullyQualifiedTypeName name="java_bai46_interface.MaytinhbotuiInterface"/>
+    <fullyQualifiedTypeName name="java_bai46_interface.Sapxepinterface"/>
+    <fullyQualifiedTypeName name="java_bai46_interface.PhanMemaytinh_nhieuinterface"/>
+    <fullyQualifiedTypeName name="code.Vidu1"/>
+    <fullyQualifiedTypeName name="code_b.Vidu1"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
 </qualifiedTypeNameHistroy>
