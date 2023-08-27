@@ -1,0 +1,47 @@
+package java_Bai38_OOP_BT;
+
+public class MayTinh {
+	private HangSanXuat hangSanXuat ; 
+	private NgaySanXuat ngaySanXuat ; 
+	private float giaBan ; 
+	private int thoiGianBH ;
+	
+	public MayTinh(HangSanXuat hangSanXuat, NgaySanXuat ngaySanXuat, float giaBan, int thoiGianBH) {
+		super();
+		this.hangSanXuat = hangSanXuat;
+		this.ngaySanXuat = ngaySanXuat;
+		this.giaBan = giaBan;
+		this.thoiGianBH = thoiGianBH;
+	}
+	public HangSanXuat getHangSanXuat() {
+		return hangSanXuat;
+	}
+	public void setHangSanXuat(HangSanXuat hangSanXuat) {
+		this.hangSanXuat = hangSanXuat;
+	}
+	public NgaySanXuat getNgaySanXuat() {
+		return ngaySanXuat;
+	}
+	public void setNgaySanXuat(NgaySanXuat ngaySanXuat) {
+		this.ngaySanXuat = ngaySanXuat;
+	}
+	public float getGiaBan() {
+		return giaBan;
+	}
+	public void setGiaBan(float giaBan) {
+		this.giaBan = giaBan;
+	}
+	public int getThoiGianBH() {
+		return thoiGianBH;
+	}
+	public void setThoiGianBH(int thoiGianBH) {
+		this.thoiGianBH = thoiGianBH;
+	} 
+	
+	public boolean KiemTraGiaThapHon(MayTinh x) {
+		return this.giaBan<x.giaBan ; 
+	}
+	public String TenQuocGiaMayTinh() {
+		return this.hangSanXuat.getQuocGia().getTenQuocGia() ;
+	}
+}

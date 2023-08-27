@@ -1,0 +1,18 @@
+package java_bai44_baitap;
+
+public abstract class PhuongTienDiChuyen {
+	protected String LoaiPhuongTien ;
+
+	public PhuongTienDiChuyen(String loaiPhuongTien) {
+		LoaiPhuongTien = loaiPhuongTien;
+	} 
+	
+	public String getLoaiPhuongTien() {
+		return LoaiPhuongTien;
+	}
+
+	public void setLoaiPhuongTien(String loaiPhuongTien) {
+		LoaiPhuongTien = loaiPhuongTien;
+	}
+	
+}

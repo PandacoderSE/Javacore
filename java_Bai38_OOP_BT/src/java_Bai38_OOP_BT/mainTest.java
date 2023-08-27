@@ -1,0 +1,20 @@
+package java_Bai38_OOP_BT;
+
+public class mainTest {
+	public static void main(String[] args) {
+		NgaySanXuat ngay1=new NgaySanXuat(2,2,2003); 
+		NgaySanXuat ngay2=new NgaySanXuat(5,2,2003); 
+
+		QuocGia QG1=new QuocGia("+84","VietNam") ; 
+		QuocGia QG2=new QuocGia("+82","PanDaCoder") ; 
+
+		HangSanXuat Hang1= new HangSanXuat("Viettel", QG1) ; 
+		HangSanXuat Hang2= new HangSanXuat("MoBi", QG2) ; 
+		
+		MayTinh SamSung= new MayTinh(Hang2, ngay2,125005,12) ;
+		MayTinh Mac = new MayTinh(Hang1, ngay1, 1000,6) ;
+		
+		System.out.println("So Sanh SamSung<Mac :"+ SamSung.KiemTraGiaThapHon(Mac));
+		System.out.println("Kiem Tra Thong Tin Quoc Gia cua Mac :"+Mac.TenQuocGiaMayTinh());
+	}
+}

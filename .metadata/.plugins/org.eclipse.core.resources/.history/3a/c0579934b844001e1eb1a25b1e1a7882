@@ -1,0 +1,5 @@
+package java_Bai44_abstract;
+
+public class HinhTron extends Hinh {
+
+}
