@@ -6,8 +6,6 @@
     <fullyQualifiedTypeName name="java_bai31_OOP.main"/>
     <fullyQualifiedTypeName name="javax.swing.ButtonGroup"/>
     <fullyQualifiedTypeName name="java_bai33_toString.myDate"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java_35_OOP_baiTap.manDate"/>
     <fullyQualifiedTypeName name="java_35_OOP_baiTap.man"/>
     <fullyQualifiedTypeName name="java_35_OOP_baiTap.bookOFman"/>
@@ -40,4 +38,6 @@
     <fullyQualifiedTypeName name="code_b.Vidu1"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>

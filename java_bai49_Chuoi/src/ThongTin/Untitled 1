@@ -1,0 +1,7 @@
+Chuỗi trong java
+có 3 loại chuỗi : 
+String : bất biến 
+StringBuffer : Khả Biến
+StringBuilder :Khae biến
+đều là các đối tượng chứ không phải mảng ký tự 
+VD String s= new String()
